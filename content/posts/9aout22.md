@@ -2,7 +2,7 @@
 title: "9 août 2022"
 date: 2022-08-09
 description: "VITE IL ME RESTE 6 MINUTES POUR ÉCRIRE AVANT QU'ON NE PASSE AU 10 AOÛT !!!!"
-tags:
+tags: ["amazing"]
 type: post
 weight: 25
 showTableOfContents: true

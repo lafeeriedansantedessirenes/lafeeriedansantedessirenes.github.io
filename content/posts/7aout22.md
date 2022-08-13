@@ -2,7 +2,7 @@
 title: "7 août 2022"
 date: 2022-08-07
 description: "Ça y est, je me suis enfin décidée à écrire tous les jours."
-tags:
+tags: ["happy"]
 type: post
 weight: 25
 showTableOfContents: true

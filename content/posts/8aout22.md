@@ -2,7 +2,7 @@
 title: "8 août 2022"
 date: 2022-08-08
 description: "J'ai commencé à coder mon blog !"
-tags:
+tags: ["happy"]
 type: post
 weight: 25
 showTableOfContents: true

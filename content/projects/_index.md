@@ -5,6 +5,6 @@ type: page
 
 
 ### Hey. Trouve ici mes projets.
-Pour le moment il n'y a rien, mais ça arrive, t'inquiète.
 
+1. [Pour ajouter un post](/projects/ajoutpost/)
 

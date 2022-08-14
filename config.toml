@@ -12,6 +12,9 @@ pygmentsStyle = "monokai"
 [params]
   footer = "... mystère"
   description = "Interdiction de lire mes posts. N'empêche que tu vas aller lire, hein ? Vilain.e"
+
+  # Accent color is displayed when you hover over <a> tags
+  accentColor = "#00C700"
   avatarURL = "/images/avatar.webp"
   avatarSize = "size-l"
   customHeadHTML = """

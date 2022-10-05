@@ -15,7 +15,7 @@ pygmentsStyle = "monokai"
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#00C700"
-  avatarURL = "../images/avatar.webp"
+  avatarURL = "/images/Joker.webp"
   avatarSize = "size-l"
   customHeadHTML = """
     <!-- KaTeX -->

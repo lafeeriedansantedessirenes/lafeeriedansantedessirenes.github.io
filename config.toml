@@ -40,7 +40,7 @@ pygmentsStyle = "monokai"
   socialIcons = [
 
   ]
-  metaKeywords = ["blog", "gokarna", "hugo"]
+  metaKeywords = ["blog"]
 
 [menu]
   [[menu.main]]

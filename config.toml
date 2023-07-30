@@ -11,7 +11,7 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "... mystère"
-  description = "Interdiction de lire mes posts. N'empêche que tu vas aller lire, hein ? Vilain.e"
+  description = "Interdiction de lire mes posts. N'empêche que tu vas aller lire, hein ? Vilain.e. ⚠️LE CONTENU EST UNE FICTION"
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#00C700"

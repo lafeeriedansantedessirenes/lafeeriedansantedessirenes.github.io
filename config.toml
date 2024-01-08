@@ -5,6 +5,13 @@ languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
 enableRobotsTXT = true
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  mood = "moods"
+  acteur = "acteurs"
+  soustitre = "soustitres"
+  auteur = "auteurs"
 
 # Choose one of emacs, trac or perldoc
 pygmentsStyle = "monokai"
